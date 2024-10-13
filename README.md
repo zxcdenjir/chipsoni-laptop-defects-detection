@@ -17,7 +17,10 @@
 
 1. Установите Python и необходимые библиотеки.
    `pip install streamlit ultralytics opencv-python-headless pillow pandas`
-2. Запустите приложение с помощью команды `streamlit run main.py`.
+   `pip install ultralytics --upgrade`
+3. Установите папку StreamLit с моделью и сайтом.
+4. Откройте терминал и перейдите в эту папку.
+5. Запустите приложение с помощью команды `streamlit run app.py`.
 
 ## Использование
 
