@@ -31,7 +31,7 @@ docker pull denjir/laptop-deffects-detection:latest
 3. После того как образ будет загружен, запустите контейнер с помощью команды:
 
 ```shell
-docker run -d --name laptop -p 8501:8501 denjir/laptop-deffects-detection:latest
+docker run -d --name chipsoni-laptop-defects-detection -p 8501:8501 denjir/laptop-deffects-detection:latest
 ```
 
 4. Перейдите в браузер и откройте [http://localhost:8501](http://localhost:8501), чтобы начать использовать приложение.
