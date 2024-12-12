@@ -25,7 +25,7 @@
 2. Скачайте образ с Docker Hub, используя следующую команду:
 
 ```shell
-docker pull denjir/laptop-defects-detection:latest
+docker pull denjir/laptop-deffects-detection:latest
 ```
 
 3. После того как образ будет загружен, запустите контейнер с помощью команды:
